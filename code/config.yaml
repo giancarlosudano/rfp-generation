@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    jsmith:
+      email: smith@mercitalia.com
+      name: smith@mercitalia.com
+      password: 2b12$dlTkl5MGyw6e2C2e1xqYi.dRTJzgmRSXCP4/wa7rQCkYngCsJ4vQO
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
